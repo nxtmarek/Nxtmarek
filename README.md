@@ -5,7 +5,7 @@ I'm currently working on some projects<br>I'm currently learning C++, reverse en
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/FinnTomek) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32209601) 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Finntomek&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nxtmarek&theme=dark)](https://git.io/streak-stats)
 
 
 # 💻 Tech Stack:
